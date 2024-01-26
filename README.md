@@ -1,13 +1,94 @@
 # CryptoClustering
 Module 11 Challenge
 
+Motivation:
+My motivation in this working on this challenge is to practice and solidify several concepts including dataframes, scaling, the Kmeans and Principal Compnent Analysis (PCA) functions, and the use of timeframes.  I worked on this with other students in the class to help all of us share our questions, observations and ideas with one another as we learn collaboratively. - "You find yourself with someone else."
 
+The focus of this exercise:
+This project provides an opportunity to examine price changes of cryptocurrencies over intervals spanning 24 hours, 7 days, 30 days, 60 days, 200 days, and 1 year. This classification and analysis will be conducted using the K-means algorithm and principal component analysis (PCA)
+
+
+Table of Contents:   
+
+Table of Contents:
+Installation
+Usage
+Credits
+License
+
+Installation
+Installation instructions to be added.
+
+Usage
+This code is to be run on Mac or PC with the following tools installed:  
+
+Pandas
+Scikit Learn:  KMeans
+Scikit Learn: PCA
+Scikit Learn: StandardScaler
+
+
+![alt text](assets/images/screenshot.png)
+Credits and Types of help:
+My collaborators for this project are:
+
+• Omar Hassanein (add link to github profile)
+
+• Farzana Azad-Hussain (add link to github profile)
+
+With many thanks to them for time spent, Farzana and Omar provided the following help:
+
+• understanding the nuances of the assignment 
+
+• helping one another recognize proper use use the new concepts we are leaning 
+
+• spotting and correcting errors
+Websites and other Sorces:
+###Websites:
+
+During the work on this this assignment, my colaborators and I used the following websites for reminders of the syntax and structure of certain commands and clarificatrion regarding the specifics of their use:
+
+• Chat GPT -- www.chatgpt.com
+
+• GeeksforGeeks -- www.geeksforgeeks.com
+
+• SciKit Learn -- https://scikit-learn.org/
+
+• Stack Overflow -- www.stackoverflow.com
+
+Books:
+I also referred to the following books for reminders, symtax rules and guidence regarding Python commands:
+
+• “The Python Workshop, 2nd ed” (Packt, 2022) Bird, Han, Jiminez, Lee and Wade
+
+• "Python Crash Course, 2nd Edition" (no starch press, 2019) Mathes
+Applications and Extensions:
+• GitBash
+
+• VSCode
+
+• Copilot
+
+• Black Formatter
+
+Video Tutorials:
+
+
+License:
+The last section of a high-quality README file is the license. This lets other developers know what they can and cannot do with your project. If you need help choosing a license, refer to https://choosealicense.com/.
+
+🏆 The previous sections are the bare minimum, and your project will ultimately determine the content of this document. You might also want to consider adding the following sections. Badges
+
+Badges aren't necessary, per se, but they demonstrate street cred. Badges let other developers know that you know what you're doing. Check out the badges hosted by shields.io. You may not understand what they all represent now, but you will in time. Features If your project has a lot of features, list them here. How to Contribute If you created an application or package and would like other developers to contribute it, you can include guidelines for how to do so. The Contributor Covenant is an industry standard, but you can always write your own if you'd prefer. Tests Go the extra mile and write tests for your application. Then provide examples on how to run them here.
 
 # Module 11 Challenge Instructions and Rubric:
 
 Due: Jan 25 at 11:59pm
-Calendar	Bootcamp: OSU-VIRT-AI-PT-10-2023-U-LOLC-MWTH
-Details	
+
+Calendar	Bootcamp: OSU-VIRT-AI-PT-10-2023-U-LOLC-MWT
+
+Details
+
 In this Challenge, you’ll apply your understanding of the K-means algorithm and principal component analysis (PCA) to classify cryptocurrencies according to their price fluctuations across various timeframes. Specifically, you will examine price changes over intervals spanning 24 hours, 7 days, 30 days, 60 days, 200 days, and 1 year.
 
 Before You Begin
