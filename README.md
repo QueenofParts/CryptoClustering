@@ -26,17 +26,19 @@ Pandas
 Scikit Learn:  KMeans
 Scikit Learn: PCA
 Scikit Learn: StandardScaler
+matplotlib
+seaborn
+hvplot
+numpy
 
 
 ![alt text](assets/images/screenshot.png)
 Credits and Types of help:
 My collaborators for this project are:
 
-• Omar Hassanein (add link to github profile)
-
 • Farzana Azad-Hussain (add link to github profile)
 
-With many thanks to them for time spent, Farzana and Omar provided the following help:
+With many thanks to them for time spent, Farzana provided the following help:
 
 • understanding the nuances of the assignment 
 
@@ -54,7 +56,8 @@ During the work on this this assignment, my colaborators and I used the followin
 
 • SciKit Learn -- https://scikit-learn.org/
 
-• Stack Overflow -- www.stackoverflow.com
+• CoPilot
+
 
 Books:
 I also referred to the following books for reminders, symtax rules and guidence regarding Python commands:
